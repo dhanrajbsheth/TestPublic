@@ -1,0 +1,3 @@
+# TestRepoPrivate
+TestRepoPrivate
+Secret = ABCDEFGHIJKLMNOPQRST
